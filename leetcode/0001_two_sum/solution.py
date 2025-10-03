@@ -1,5 +1,6 @@
 """
 Great for learning how to use dictionaries (hashes) and clever thinking to make the solution linear time.
+Will add more later.
 """
 
 def two_sum(nums, target):
