@@ -1,3 +1,5 @@
+![Python Tests](https://github.com/Alex-Astralis/python_journey/actions/workflows/python-tests.yml/badge.svg)
+
 # LeetCode Solutions in Python
 
 This repository contains curated solutions to LeetCode problems.  
