@@ -15,5 +15,5 @@ def two_sum(nums, target):
         if complement in _dict:
             return [i, _dict[complement]]
         _dict[item] = i
-    return None
+    return []
 
