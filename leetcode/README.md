@@ -13,10 +13,10 @@ problem-number-name/
 └─ README.md
 
 ## Problem Index
-| #   | Problem                 | Pattern      | Link                          |
-|-----|-------------------------|--------------|-------------------------------|
-| 1   | Two Sum                 | Hash Map     | [View](0001-two-sum)          |
-| 125 | Valid Palindrome        | Two Pointers | [View](0125-valid-palindrome) |
+| #     | Problem                 | Pattern      | Link                           |
+|-------|-------------------------|--------------|--------------------------------|
+| 1     | Two Sum                 | Hash Map     | [View](0001-two-sum)           |
+| 125   | Valid Palindrome        | Two Pointers | [View](0125-valid-palindrome)  |
 
 ## How to Run Tests
 ```bash

@@ -1,5 +1,5 @@
 import pytest
-from two_sum_solution import two_sum
+from .solution import two_sum
 
 def test_two_sum_example():
     assert two_sum([2,7,11,15], 9) in ([0,1],[1,0])
