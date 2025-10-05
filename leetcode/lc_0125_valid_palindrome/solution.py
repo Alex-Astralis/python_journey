@@ -1,5 +1,3 @@
-from typing import List
-
 def is_palindrome_clean_string_version(s: str) -> bool:
     """
     Return True if the string `s` is a palindrome after

@@ -1,5 +1,5 @@
 import pytest
-from leetcode.lc0125_valid_palindrome.solution import is_palindrome
+from leetcode.lc_0125_valid_palindrome.solution import is_palindrome
 
 def test_valid_palindrome_basic():
     assert is_palindrome("A man, a plan, a canal: Panama") is True
