@@ -1,5 +1,4 @@
 from typing import List
-import math
 
 def max_profit(prices: List[int]) -> int:
     """
@@ -13,7 +12,7 @@ def max_profit(prices: List[int]) -> int:
     """
 
     highest_profit = 0
-    min_price = math.inf
+    min_price = float('inf')
 
     for price in prices:
 
